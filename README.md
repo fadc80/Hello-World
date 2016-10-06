@@ -1,8 +1,11 @@
-My 1st git commit.
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+
+My 1st git commit.
 My 2sd git commit.
 Hello World!
 Bye bye!
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
