@@ -1,10 +1,10 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-My 1st git commit.
-My 2sd git commit.
-Hello World!
-Bye bye!
+My 1st git commit.  
+My 2sd git commit.  
+Hello World!  
+Bye bye!  
 
 ## Contributors
 
